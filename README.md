@@ -17,3 +17,5 @@ For Line 2 ->
 [TLE Line2 table.pdf](https://github.com/Brlimaye/TLE/files/7353011/TLE.Line2.table.pdf) <br>
 
 The Python Script makes the task easier for the SatCom Enthusiasts to know the Epochs and Locations and also help the On-Site concerned People.
+
+NOTE - The script does not always require PC/Laptops for obtaining the results, it can also be executed using mobile apps like Dcoder, PyDroid 3 etc.
