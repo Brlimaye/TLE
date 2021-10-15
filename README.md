@@ -1,5 +1,5 @@
 # TLE
-Python Scripting to reduce the complexity of understanding the TLE (Two Line Element) of any Satellite Station in Orbit. 
+A Python Scripting Project to reduce the complexity of understanding the TLE (Two Line Element) of any Satellite Station in Orbit. 
 A two-line element set (TLE) is a data format encoding a list of orbital elements of an Earth-orbiting object for a given point in time, the epoch. Using a suitable prediction formula, the state (position and velocity) at any point in the past or future can be estimated to some accuracy.
 For Example, This is the TLE for the ISS(International Space Station) ZARYA ->
 
